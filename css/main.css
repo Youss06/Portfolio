@@ -19,8 +19,22 @@
   line-height: 18px;
 }
 
+.logo a {
+  color: #ffffff;
+  padding-left: 75px;
+  font-size: 25px;
+  line-height: 18px;
+}
 
-  .navigation {
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.navigation {
     position: fixed;
     top: 0px;
     width: 100%;
