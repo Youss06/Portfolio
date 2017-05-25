@@ -139,40 +139,6 @@ body {
 }*/
 
 
-#selectionbar {
-  max-width: 1000px;
-  margin: 0 auto;
-  background: rgba(255,255,255,0.3);
-  text-align: center;
-  padding: .5rem;
-  color: #fff;
-}
-#dynaflex {
-  display: flex;
-  font-size: 0;
-  flex-flow: row wrap;
-  max-width: 1000px;
-  margin: 0 auto;
-}
-#dynaflex figure {
-  margin: 0; min-width: 201px;
-  flex: 0.67; transition: .5s;
-}
-#dynaflex figure.cub {
-  flex: 0.568;
-  min-width: 170.49px;
-}
-#dynaflex figure.on-grass {
-  flex: 1;
-  min-width: 300px;
-}
-#dynaflex figure.diminish {
-  min-width: 0; flex: 0;
-}
-#dynaflex figure img {
-  width: 100%; height: auto;
-}
-
 /* FOOTER DIV */
 #footer {
   background: #ffffff;
