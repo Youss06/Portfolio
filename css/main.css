@@ -67,6 +67,10 @@ body {
 
 }
 
+#bienvenue h1 {
+  font-family: 'Akronim', cursive;
+  font-size: 120px;;
+}
 
 #bienvenue h1:hover {
   color: #00FFFF;
