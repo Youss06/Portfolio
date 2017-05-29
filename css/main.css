@@ -145,6 +145,10 @@ font-weight: 600;
 }
 
 
+#portfolio a, #footer a  {
+  text-decoration: none;
+}
+
 
 
 section#contact {
